@@ -1,0 +1,11 @@
+{
+  "name": "com.qamelior.featureattributes",
+  "version": "1.0.0",
+  "displayName": "Feature Attributes",
+  "description": "Generic container for attributes of any game feature, grouped for easy access",
+  "unity": "2022.3",
+  "author": {
+    "name": "Nikita Veselov",
+    "email": "nick.veselov.gamedev@gmail.com"
+  }
+}
